@@ -31,7 +31,12 @@
 - Logistic Regression : c(正则惩罚项)=100
     - recall = 0.939071749738425
     - test recall = 0.8805970149253731 , test acc = 0.86
+
+
 >> Logistic Regression is not the best model cuz i have used c parameter to tweak it     
+
+
+
 - Random Forests
     - test acc = 0.86
     - test recall = 0.8756218905472637
