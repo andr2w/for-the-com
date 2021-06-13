@@ -2,7 +2,7 @@ wordembedding
 nedata/embedding_SougouNews.npz
 lstm/saved_dir
 .vscode
-4,5_Bert_and_Bert_BiLstm/bert_pretrain
-4,5_Bert_and_Bert_BiLstm/.ipynb_checkpoints
-4,5_Bert_and_Bert_BiLstm/model
-4,5_Bert_and_Bert_BiLstm/save_dir
+5,6_Bert_and_Bert_BiLstm/bert_pretrain
+5,6_Bert_and_Bert_BiLstm/.ipynb_checkpoints
+5,6_Bert_and_Bert_BiLstm/model
+5,6_Bert_and_Bert_BiLstm/save_dir
