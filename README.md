@@ -27,7 +27,7 @@
 
 
 ## Result
-<best>
+
 - Logistic Regression : c(正则惩罚项)=100
     - recall = 0.939071749738425
     - test recall = 0.8805970149253731 , test acc = 0.86
