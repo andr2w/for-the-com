@@ -19,3 +19,5 @@
     - Simple Bert Model
     - Bert + BiLSTM 
 
+>> See the result plots in each jupyter notebook
+>> 5, 6 is in the folder `5,6_Bert_and_Bert_BiLstm`
