@@ -5,3 +5,10 @@ lstm/saved_dir
 5,6_Bert_and_Bert_BiLstm/bert_pretrain
 5,6_Bert_and_Bert_BiLstm/.ipynb_checkpoints
 5,6_Bert_and_Bert_BiLstm/save_dir
+data
+no_weibo
+weibo
+test_data
+5,6_Bert_and_Bert_BiLstm/data_with_label
+5,6_Bert_and_Bert_BiLstm/test_data
+
