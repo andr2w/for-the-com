@@ -11,4 +11,7 @@ weibo
 test_data
 5,6_Bert_and_Bert_BiLstm/data_with_label
 5,6_Bert_and_Bert_BiLstm/test_data
+three/wordembedding
+three/bert_pretrain
+three/save_dir
 
